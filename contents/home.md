@@ -1,6 +1,6 @@
 
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
+[![EK-Seong](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/EK-Seong)
 
 He is currently pursuing a Ph.D in Economics, at Department of Economics, Seoul National University, South Korea.
 
