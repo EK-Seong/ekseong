@@ -2,7 +2,7 @@
 
 [![EK-Seong](https://img.shields.io/badge/EK_Seong-GitHub-blue)](https://github.com/EK-Seong)
 
-He is currently on progress in a Ph.D in Economics, at Department of Economics, Seoul National University, South Korea.
+He is currently on progress in a Ph.D in Economics, at Department of Economics, Seoul National University, Republic of Korea.
 
 #### Email
 uocup96[at]ac.kr
