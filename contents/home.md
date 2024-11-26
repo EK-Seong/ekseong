@@ -1,6 +1,6 @@
 
 
-[![EK-Seong](https://github.com/EK-Seong/ekseong/tree/main/static/assets/github-mark-c791e9551fe4/github-mark\github-mark-white.png)](https://github.com/EK-Seong)
+[![EK-Seong](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/EK-Seong)
 
 He is currently on progress in a Ph.D in Economics, at Department of Economics, Seoul National University, South Korea.
 
