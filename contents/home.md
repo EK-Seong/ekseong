@@ -1,6 +1,6 @@
 
 
-[![EK-Seong](C:\Users\eunkyu\git\ekseong\static\assets\github-mark-c791e9551fe4\github-mark\github-mark-white.png)](https://github.com/EK-Seong)
+[![EK-Seong](https://github.com/EK-Seong/ekseong/tree/main/static/assets/github-mark-c791e9551fe4/github-mark\github-mark-white.png)](https://github.com/EK-Seong)
 
 He is currently pursuing a Ph.D in Economics, at Department of Economics, Seoul National University, South Korea.
 
