@@ -6,6 +6,7 @@ He is currently in progress of the Ph.D in Economics at the Department of Econom
 
 #### Email
 uocup96[at]snu.ac.kr
+
 uocup96[at]gmail.com
 
 #### Education
