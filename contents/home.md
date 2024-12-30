@@ -13,4 +13,4 @@ uocup96[at]gmail.com
 B.E., Economics, Chungnam National University, 2015—2021.
 
 #### Research Interests
-My main research interest is identification and inference of a causal parameter with instrumental variables.
+My main research interest is identification and inference for a causal parameter with instrumental variables.
