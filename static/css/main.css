@@ -110,15 +110,6 @@ section .main-body{
 }
 
 
-/* Base styles */
-body {
-    font-family: Arial, sans-serif;
-    line-height: 1.6;
-    margin: 0;
-    padding: 0;
-    color: #333;
-    background-color: #f4f4f9;
-}
 
 .container {
     width: 100%;
@@ -148,31 +139,6 @@ img {
     display: block;
 }
 
-/* Typography */
-h1, h2, h3, h4, h5, h6 {
-    margin: 0 0 15px;
-    line-height: 1.2;
-}
-
-p {
-    margin: 0 0 15px;
-}
-
-/* Buttons */
-button {
-    padding: 10px 20px;
-    font-size: 16px;
-    border: none;
-    border-radius: 5px;
-    background-color: #2937f0;
-    color: white;
-    cursor: pointer;
-    transition: background-color 0.3s;
-}
-
-button:hover {
-    background-color: #1f2ab5;
-}
 
 /* Media Queries */
 
