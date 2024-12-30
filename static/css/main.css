@@ -50,8 +50,8 @@ section header h2{
 
 section .main-body{
     font-size: auto;
-    font-weight: 200;
-    line-height: 2.4rem;
+    font-weight: auto;
+    line-height: auto;
 }
 
 
